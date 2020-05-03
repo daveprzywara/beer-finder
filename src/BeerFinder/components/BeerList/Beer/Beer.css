@@ -1,0 +1,28 @@
+li {
+  display: table;
+  margin: 0;
+  padding: 0;
+}
+
+.beers {
+  list-style-type: none;
+  border-bottom: 1px dashed #000;
+  width: 250px;
+  height: 250px;
+}
+
+.beers-inner {
+  width: 80%;
+  height: 80%;
+  margin: 0 auto;
+}
+
+.beers-active {
+  width: 400px;
+  overflow: auto;
+}
+
+img {
+  width: 60px;
+  height: 160px;
+}
